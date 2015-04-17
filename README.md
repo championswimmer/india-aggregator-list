@@ -36,3 +36,30 @@ http://yourstory.com/2014/07/cleartrip-makemytrip-yatra/
 
 References -    
 http://archive.financialexpress.com/news/online-food-aggregators-delivering-healthy-business-to-restaurants/1242196    
+
+##Work
+
+###Professional Job boards
+* Naukri.com
+* Monsterjobs
+* Shine.com
+* Times Jobs
+
+###Referral Job Boards
+* Springrole
+* Talentpad
+* Instahyre
+
+
+##Ecommerce
+
+###Generic ecommerce
+* Amazon.in
+* Flipkart
+* Snapdeal
+
+###Fashion
+* Jabong
+* Zovi
+* Koovs
+* FashionAndYou
