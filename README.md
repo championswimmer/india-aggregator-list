@@ -19,6 +19,11 @@ http://yourstory.com/2014/09/taxiforsure-ola-uber-radio-cabs-taxi-market-india-m
 * Yatra
 * Expedia
 
+###Bus
+* Redbus
+* BusIndia
+* Abhibus
+
 ##Accomodation
 
 ###Hotels
@@ -76,3 +81,15 @@ http://archive.financialexpress.com/news/online-food-aggregators-delivering-heal
 * Zovi
 * Koovs
 * FashionAndYou
+
+
+##Events
+
+###Movies and Entertainment
+* Bookmyshow
+* Kyazoonga
+
+###Micro Event ticketing
+* Explara
+* TicketGenie
+* Mera Events
