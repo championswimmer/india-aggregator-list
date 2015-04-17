@@ -19,6 +19,19 @@ http://yourstory.com/2014/09/taxiforsure-ola-uber-radio-cabs-taxi-market-india-m
 * Yatra
 * Expedia
 
+##Accomodation
+
+###Hotels
+* goibibo
+* Trivago
+* Booking.com
+* Ixigo
+
+###Rooms and Hostels - a la carte 
+* Zostel
+* Zo Rooms
+* AirBnB
+
 References  -   
 http://yourstory.com/2014/07/cleartrip-makemytrip-yatra/    
 
