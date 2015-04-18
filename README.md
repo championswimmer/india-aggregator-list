@@ -3,7 +3,7 @@
 ##Travel
 
 ###Cabs
-* Uber ((API)[https://developer.uber.com/])
+* Uber (API)[https://developer.uber.com]
 * Ola
 * Meru
 * Easycabs
